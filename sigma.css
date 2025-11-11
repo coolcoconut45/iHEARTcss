@@ -7,3 +7,15 @@ textarea {
 }
 
 /*but why?*/
+
+h1 {
+  font-family: Arial;
+  color: #FFFFFF;
+  /*pain*/
+}
+
+/*there is no point.*/
+img {
+  padding: 10px;
+  text-align : center
+}
